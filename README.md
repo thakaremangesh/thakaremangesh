@@ -107,7 +107,7 @@
 
 <p>Let's connect, collaborate, and build something amazing together! 🚀</p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/mangesh-thakare-6151003a1" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
