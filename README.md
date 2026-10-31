@@ -115,7 +115,7 @@
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:thakarem931@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail"/>
 </a>
 
