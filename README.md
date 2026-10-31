@@ -74,14 +74,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,postman,maven" />
 </p>
 
----
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -92,53 +84,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Developer Mindset
-
-**"First, solve the problem. Then, write the code."**
-
-### 🚀 Code | Learn | Build | Repeat
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:7B2FF7&height=120&section=footer" />
 
 </div>
