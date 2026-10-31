@@ -106,3 +106,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:7B2FF7&height=120&section=footer" />
 
 </div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<p>Let's connect, collaborate, and build something amazing together! 🚀</p>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
