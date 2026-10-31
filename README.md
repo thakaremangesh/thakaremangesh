@@ -102,11 +102,6 @@
 
 </div>
 
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:7B2FF7&height=120&section=footer" />
-
-</div>
-## 🤝 Connect With Me
 
 <div align="center">
 
@@ -123,5 +118,11 @@
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail"/>
 </a>
+
+</div>
+
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:7B2FF7&height=120&section=footer" />
 
 </div>
