@@ -1,34 +1,33 @@
  <div align="center">
 
-# 👋 Hi, I'm Mangesh Thakre
+# 👋 Hey, I'm Mangesh Thakre
 
 ### 🚀 Java Full Stack Developer | Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+%26+Frontend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Building+Real+World+Applications;Spring+Boot+%7C+REST+APIs+%7C+SQL;Always+Learning+%26+Growing" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+</div>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td width="60%">
 
-💻 Passionate Java Full Stack Developer
+- 👨‍💻 I'm a Java Full Stack Developer.
+- 🎓 B.Tech Graduate in Information Technology.
+- ☕ Passionate about Java and Backend Development.
+- 🌱 Currently learning Spring Boot and Advanced Java.
+- 💡 Interested in building scalable web applications.
+- 🔍 Love solving coding challenges and learning new technologies.
+- 🎯 Working towards becoming a skilled Software Engineer.
 
-🎓 B.Tech Graduate in Information Technology
+</td>
+<td width="40%" align="center">
 
-☕ Interested in Java Backend Development
-
-🌱 Currently improving my skills in Spring Boot and REST APIs
-
-🚀 Building real-world applications and solving coding problems
-
-🎯 Goal: Become a skilled Software Developer
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230" alt="Developer coding animation"/>
 
 </td>
 </tr>
@@ -36,75 +35,115 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-#### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js" />
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
-#### 🌐 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+### 🌐 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
 </p>
 
-#### ⚙️ Backend Development
-<p>
+### ⚙️ Backend Development
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-#### 🗄️ Database
-<p>
+<p align="center">
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Servlets-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSP-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,oracle" />
 </p>
 
-#### 🔧 Tools & IDEs
-<p>
-<img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,postman" />
+### 🔧 Tools & Development Environment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,postman,maven" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-### 🔥 GitHub Contribution Streak
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+## 📌 Featured Projects
 
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 💡 Developer Quote
+<div align="center">
 
-**"Code. Learn. Build. Repeat. Every day is an opportunity to become better."**
+### 💡 Developer Mindset
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+**"First, solve the problem. Then, write the code."**
+
+### 🚀 Code | Learn | Build | Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:7B2FF7&height=120&section=footer" />
 
 </div>
